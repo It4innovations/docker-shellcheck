@@ -1,3 +1,3 @@
 # docker-shellcheck
 
-Latest Ubuntu with shellcheck lint app.
+Latest Debian with shellcheck lint app.
